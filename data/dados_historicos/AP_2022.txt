@@ -1,0 +1,260 @@
+<HTML><HEAD>
+	<link rel='stylesheet' href='irpf.css'/>
+	<link rel='stylesheet' href='style.css'/>
+	<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.10.2/css/all.css' crossorigin='anonymous'/>
+</head>
+<BODY>
+<!-- Arquivo gerado na data: 22/03/2023 08:24-->
+<!-- Dados até: 20220531-->
+    <h2>Declarações de Imposto de Renda 2022 - UF: AP</h2>
+    <p>Acompanhe os números das declarações de imposto de renda enviadas à Receita Federal.</p>
+<div class='irpf'>	<div class='irpf-card irpf-main'>        <div>97.416</div>        <div>declarações enviadas até <strong>31/05/2022</strong></div>        <hr style='width: 100%;'/>        <div><strong>67,54%</strong> a restituir | <strong>17,94%</strong> a pagar | <strong>14,52%</strong> sem imposto</div>    </div>	<div>		<div class='irpf-card'><i class='fas fa-download'></i>94%</div>		<div class='irpf-card'><i class='fas fa-cloud'></i>2%</div>		<div class='irpf-card'><i class='fas fa-mobile-alt'></i>4%</div>	</div>	<div class='irpf-card irpf-else'>		<div>7%</div>		<div>pré-preenchidas</div>	</div>	<div class='irpf-card irpf-else'>		<div>39%</div>		<div>simplificado</div>	</div>	<div class='irpf-card irpf-else'>		<div>12%</div>		<div>retificadoras</div>	</div></div>
+<P><A HREF='totaisDIRPF_UF_2022.HTML'><strong>voltar</strong></A></P>
+<div>
+<TABLE class='listing'><THEAD><TR class='head odd'>
+<TD style='text-align:right'  colspan=3><strong></strong></TD>
+<TD style='text-align:center' colspan=3><strong>Meio</strong></TD>
+<TD style='text-align:center' colspan=2><strong>Tributação</strong></TD>
+<TD style='text-align:center' colspan=2><strong>Tipo</strong></TD>
+<TD style='text-align:center' colspan=3><strong>Resultado</strong></TD>
+</TR>
+<TR class='head odd'><TD><strong>UF</strong></TD>
+<TD style='text-align:right'><strong>Total</strong></TD>
+<TD style='text-align:right'><strong>Pré-Preenchida</strong></TD>
+<TD style='text-align:right'><strong>PGD</strong></TD>
+<TD style='text-align:right'><strong>APP</strong></TD>
+<TD style='text-align:right'><strong>Online</strong></TD>
+<TD style='text-align:right'><strong>Deduções</strong></TD>
+<TD style='text-align:right'><strong>Simplificada</strong></TD>
+<TD style='text-align:right'><strong>Originais</strong></TD>
+<TD style='text-align:right'><strong>Retificadoras</strong></TD>
+<TD style='text-align:right'><strong>Sem imposto</strong></TD>
+<TD style='text-align:right'><strong>A pagar</strong></TD>
+<TD style='text-align:right'><strong>A restituir</strong></TD>
+</TR></THEAD>
+<TR class='head odd'><TD>AMAPA</TD>
+<TD style='text-align:right'><strong>627</strong></TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>96%</TD>
+<TD style='text-align:right'>2%</TD>
+<TD style='text-align:right'>2%</TD>
+<TD style='text-align:right'>55%</TD>
+<TD style='text-align:right'>45%</TD>
+<TD style='text-align:right'>89%</TD>
+<TD style='text-align:right'>11%</TD>
+<TD style='text-align:right'>11,16%</TD>
+<TD style='text-align:right'>14,19%</TD>
+<TD style='text-align:right'>74,64%</TD>
+</TR>
+<TR class='head even'><TD>CALCOENE</TD>
+<TD style='text-align:right'><strong>629</strong></TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>96%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>42%</TD>
+<TD style='text-align:right'>58%</TD>
+<TD style='text-align:right'>93%</TD>
+<TD style='text-align:right'>7%</TD>
+<TD style='text-align:right'>30,37%</TD>
+<TD style='text-align:right'>16,69%</TD>
+<TD style='text-align:right'>52,94%</TD>
+</TR>
+<TR class='head odd'><TD>CUTIAS</TD>
+<TD style='text-align:right'><strong>117</strong></TD>
+<TD style='text-align:right'>9%</TD>
+<TD style='text-align:right'>97%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>0%</TD>
+<TD style='text-align:right'>57%</TD>
+<TD style='text-align:right'>43%</TD>
+<TD style='text-align:right'>90%</TD>
+<TD style='text-align:right'>10%</TD>
+<TD style='text-align:right'>15,38%</TD>
+<TD style='text-align:right'>20,51%</TD>
+<TD style='text-align:right'>64,10%</TD>
+</TR>
+<TR class='head even'><TD>FERREIRA GOMES</TD>
+<TD style='text-align:right'><strong>471</strong></TD>
+<TD style='text-align:right'>7%</TD>
+<TD style='text-align:right'>94%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>47%</TD>
+<TD style='text-align:right'>53%</TD>
+<TD style='text-align:right'>90%</TD>
+<TD style='text-align:right'>10%</TD>
+<TD style='text-align:right'>12,95%</TD>
+<TD style='text-align:right'>25,48%</TD>
+<TD style='text-align:right'>61,57%</TD>
+</TR>
+<TR class='head odd'><TD>ITAUBAL</TD>
+<TD style='text-align:right'><strong>159</strong></TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>95%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>70%</TD>
+<TD style='text-align:right'>30%</TD>
+<TD style='text-align:right'>91%</TD>
+<TD style='text-align:right'>9%</TD>
+<TD style='text-align:right'>13,84%</TD>
+<TD style='text-align:right'>15,09%</TD>
+<TD style='text-align:right'>71,07%</TD>
+</TR>
+<TR class='head even'><TD>LARANJAL DO JARI</TD>
+<TD style='text-align:right'><strong>3.077</strong></TD>
+<TD style='text-align:right'>2%</TD>
+<TD style='text-align:right'>96%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>50%</TD>
+<TD style='text-align:right'>50%</TD>
+<TD style='text-align:right'>91%</TD>
+<TD style='text-align:right'>9%</TD>
+<TD style='text-align:right'>20,25%</TD>
+<TD style='text-align:right'>22,42%</TD>
+<TD style='text-align:right'>57,33%</TD>
+</TR>
+<TR class='head odd'><TD>MACAPA</TD>
+<TD style='text-align:right'><strong>72.777</strong></TD>
+<TD style='text-align:right'>8%</TD>
+<TD style='text-align:right'>94%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>2%</TD>
+<TD style='text-align:right'>63%</TD>
+<TD style='text-align:right'>37%</TD>
+<TD style='text-align:right'>87%</TD>
+<TD style='text-align:right'>13%</TD>
+<TD style='text-align:right'>14,01%</TD>
+<TD style='text-align:right'>17,90%</TD>
+<TD style='text-align:right'>68,09%</TD>
+</TR>
+<TR class='head even'><TD>MAZAGAO</TD>
+<TD style='text-align:right'><strong>950</strong></TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>96%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>68%</TD>
+<TD style='text-align:right'>32%</TD>
+<TD style='text-align:right'>86%</TD>
+<TD style='text-align:right'>14%</TD>
+<TD style='text-align:right'>16,11%</TD>
+<TD style='text-align:right'>15,16%</TD>
+<TD style='text-align:right'>68,74%</TD>
+</TR>
+<TR class='head odd'><TD>OIAPOQUE</TD>
+<TD style='text-align:right'><strong>2.146</strong></TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>96%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>44%</TD>
+<TD style='text-align:right'>56%</TD>
+<TD style='text-align:right'>92%</TD>
+<TD style='text-align:right'>8%</TD>
+<TD style='text-align:right'>23,07%</TD>
+<TD style='text-align:right'>18,08%</TD>
+<TD style='text-align:right'>58,85%</TD>
+</TR>
+<TR class='head even'><TD>PEDRA BRANCA DO AMAPARI</TD>
+<TD style='text-align:right'><strong>889</strong></TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>94%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>63%</TD>
+<TD style='text-align:right'>37%</TD>
+<TD style='text-align:right'>92%</TD>
+<TD style='text-align:right'>8%</TD>
+<TD style='text-align:right'>11,14%</TD>
+<TD style='text-align:right'>12,71%</TD>
+<TD style='text-align:right'>76,15%</TD>
+</TR>
+<TR class='head odd'><TD>PORTO GRANDE</TD>
+<TD style='text-align:right'><strong>1.264</strong></TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>94%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>55%</TD>
+<TD style='text-align:right'>45%</TD>
+<TD style='text-align:right'>92%</TD>
+<TD style='text-align:right'>8%</TD>
+<TD style='text-align:right'>17,56%</TD>
+<TD style='text-align:right'>19,30%</TD>
+<TD style='text-align:right'>63,13%</TD>
+</TR>
+<TR class='head even'><TD>PRACUUBA</TD>
+<TD style='text-align:right'><strong>116</strong></TD>
+<TD style='text-align:right'>12%</TD>
+<TD style='text-align:right'>79%</TD>
+<TD style='text-align:right'>13%</TD>
+<TD style='text-align:right'>8%</TD>
+<TD style='text-align:right'>48%</TD>
+<TD style='text-align:right'>52%</TD>
+<TD style='text-align:right'>90%</TD>
+<TD style='text-align:right'>10%</TD>
+<TD style='text-align:right'>17,24%</TD>
+<TD style='text-align:right'>14,66%</TD>
+<TD style='text-align:right'>68,10%</TD>
+</TR>
+<TR class='head odd'><TD>SANTANA</TD>
+<TD style='text-align:right'><strong>12.518</strong></TD>
+<TD style='text-align:right'>6%</TD>
+<TD style='text-align:right'>95%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>61%</TD>
+<TD style='text-align:right'>39%</TD>
+<TD style='text-align:right'>88%</TD>
+<TD style='text-align:right'>12%</TD>
+<TD style='text-align:right'>13,53%</TD>
+<TD style='text-align:right'>17,47%</TD>
+<TD style='text-align:right'>69,00%</TD>
+</TR>
+<TR class='head even'><TD>SERRA DO NAVIO</TD>
+<TD style='text-align:right'><strong>542</strong></TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>94%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>50%</TD>
+<TD style='text-align:right'>50%</TD>
+<TD style='text-align:right'>93%</TD>
+<TD style='text-align:right'>7%</TD>
+<TD style='text-align:right'>5,72%</TD>
+<TD style='text-align:right'>17,16%</TD>
+<TD style='text-align:right'>77,12%</TD>
+</TR>
+<TR class='head odd'><TD>TARTARUGALZINHO</TD>
+<TD style='text-align:right'><strong>438</strong></TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>95%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>47%</TD>
+<TD style='text-align:right'>53%</TD>
+<TD style='text-align:right'>91%</TD>
+<TD style='text-align:right'>9%</TD>
+<TD style='text-align:right'>18,04%</TD>
+<TD style='text-align:right'>20,55%</TD>
+<TD style='text-align:right'>61,42%</TD>
+</TR>
+<TR class='head even'><TD>VITORIA DO JARI</TD>
+<TD style='text-align:right'><strong>696</strong></TD>
+<TD style='text-align:right'>2%</TD>
+<TD style='text-align:right'>97%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>0%</TD>
+<TD style='text-align:right'>41%</TD>
+<TD style='text-align:right'>59%</TD>
+<TD style='text-align:right'>96%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>23,99%</TD>
+<TD style='text-align:right'>17,39%</TD>
+<TD style='text-align:right'>58,62%</TD>
+</TR>
+</TABLE></DIV>
+</BODY></HTML>

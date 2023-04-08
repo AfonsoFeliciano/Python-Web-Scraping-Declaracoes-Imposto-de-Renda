@@ -1,0 +1,50 @@
+<HTML><HEAD>
+	<link rel='stylesheet' href='irpf.css'/>
+	<link rel='stylesheet' href='style.css'/>
+	<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.10.2/css/all.css' crossorigin='anonymous'/>
+</head>
+<BODY>
+<!-- Arquivo gerado na data: 22/03/2023 08:31-->
+<!-- Dados até: 20210531-->
+    <h2>Declarações de Imposto de Renda 2021 - UF: DF</h2>
+    <p>Acompanhe os números das declarações de imposto de renda enviadas à Receita Federal.</p>
+<div class='irpf'>	<div class='irpf-card irpf-main'>        <div>837.279</div>        <div>declarações enviadas até <strong>31/05/2021</strong></div>        <hr style='width: 100%;'/>        <div><strong>64,71%</strong> a restituir | <strong>16,57%</strong> a pagar | <strong>18,73%</strong> sem imposto</div>    </div>	<div>		<div class='irpf-card'><i class='fas fa-download'></i>94%</div>		<div class='irpf-card'><i class='fas fa-cloud'></i>2%</div>		<div class='irpf-card'><i class='fas fa-mobile-alt'></i>4%</div>	</div>	<div class='irpf-card irpf-else'>		<div>2%</div>		<div>pré-preenchidas</div>	</div>	<div class='irpf-card irpf-else'>		<div>41%</div>		<div>simplificado</div>	</div>	<div class='irpf-card irpf-else'>		<div>10%</div>		<div>retificadoras</div>	</div></div>
+<P><A HREF='totaisDIRPF_UF_2021.HTML'><strong>voltar</strong></A></P>
+<div>
+<TABLE class='listing'><THEAD><TR class='head odd'>
+<TD style='text-align:right'  colspan=3><strong></strong></TD>
+<TD style='text-align:center' colspan=3><strong>Meio</strong></TD>
+<TD style='text-align:center' colspan=2><strong>Tributação</strong></TD>
+<TD style='text-align:center' colspan=2><strong>Tipo</strong></TD>
+<TD style='text-align:center' colspan=3><strong>Resultado</strong></TD>
+</TR>
+<TR class='head odd'><TD><strong>UF</strong></TD>
+<TD style='text-align:right'><strong>Total</strong></TD>
+<TD style='text-align:right'><strong>Pré-Preenchida</strong></TD>
+<TD style='text-align:right'><strong>PGD</strong></TD>
+<TD style='text-align:right'><strong>APP</strong></TD>
+<TD style='text-align:right'><strong>Online</strong></TD>
+<TD style='text-align:right'><strong>Deduções</strong></TD>
+<TD style='text-align:right'><strong>Simplificada</strong></TD>
+<TD style='text-align:right'><strong>Originais</strong></TD>
+<TD style='text-align:right'><strong>Retificadoras</strong></TD>
+<TD style='text-align:right'><strong>Sem imposto</strong></TD>
+<TD style='text-align:right'><strong>A pagar</strong></TD>
+<TD style='text-align:right'><strong>A restituir</strong></TD>
+</TR></THEAD>
+<TR class='head odd'><TD>BRASILIA</TD>
+<TD style='text-align:right'><strong>837.279</strong></TD>
+<TD style='text-align:right'>2%</TD>
+<TD style='text-align:right'>94%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>2%</TD>
+<TD style='text-align:right'>59%</TD>
+<TD style='text-align:right'>41%</TD>
+<TD style='text-align:right'>90%</TD>
+<TD style='text-align:right'>10%</TD>
+<TD style='text-align:right'>18,73%</TD>
+<TD style='text-align:right'>16,57%</TD>
+<TD style='text-align:right'>64,71%</TD>
+</TR>
+</TABLE></DIV>
+</BODY></HTML>

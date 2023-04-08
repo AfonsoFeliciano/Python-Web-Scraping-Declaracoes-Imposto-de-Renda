@@ -1,0 +1,55 @@
+<HTML><HEAD>
+	<link rel='stylesheet' href='irpf.css'/>
+	<link rel='stylesheet' href='style.css'/>
+	<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.10.2/css/all.css' crossorigin='anonymous'/>
+</head>
+<BODY>
+<!-- Arquivo gerado na data: 07/04/2023 20:28-->
+<!-- Dados até: 2023-04-07 20:21:07.0-->
+    <h2>Declarações de Imposto de Renda 2023 - UF: DF</h2>
+    <p>Acompanhe os números das declarações de imposto de renda enviadas à Receita Federal.</p>
+<div class='irpf'>	<div class='irpf-card irpf-main'>        <div>290.584</div>        <div>declarações enviadas até <strong>07/04/2023 20:21</strong></div>        <hr style='width: 100%;'/>        <div><strong>84,69%</strong> a restituir | <strong>7,43%</strong> a pagar | <strong>7,88%</strong> sem imposto</div>    </div>	<div>		<div class='irpf-card'><i class='fas fa-download'></i>83%</div>		<div class='irpf-card'><i class='fas fa-cloud'></i>9%</div>		<div class='irpf-card'><i class='fas fa-mobile-alt'></i>9%</div>	</div>	<div class='irpf-card irpf-else'>		<div>30%</div>		<div>pré-preenchidas</div>	</div>	<div class='irpf-card irpf-else'>		<div>38%</div>		<div>simplificado</div>	</div>	<div class='irpf-card irpf-else'>		<div>7%</div>		<div>retificadoras</div>	</div></div>
+<P><A HREF='totaisDIRPF_UF.HTML'><strong>voltar</strong></A></P>
+<div>
+<TABLE class='listing'><THEAD><TR class='head odd'>
+<TD style='text-align:right'  colspan=3><strong></strong></TD>
+<TD style='text-align:center' colspan=3><strong>Meio</strong></TD>
+<TD style='text-align:center' colspan=2><strong>Tributação</strong></TD>
+<TD style='text-align:center' colspan=2><strong>Tipo</strong></TD>
+<TD style='text-align:center' colspan=3><strong>Resultado</strong></TD>
+<TD style='text-align:center' colspan=2><strong>Restituição</strong></TD>
+</TR>
+<TR class='head odd'><TD><strong>UF</strong></TD>
+<TD style='text-align:right'><strong>Total</strong></TD>
+<TD style='text-align:right'><strong>Pré-Preenchida</strong></TD>
+<TD style='text-align:right'><strong>PGD</strong></TD>
+<TD style='text-align:right'><strong>APP</strong></TD>
+<TD style='text-align:right'><strong>Online</strong></TD>
+<TD style='text-align:right'><strong>Deduções</strong></TD>
+<TD style='text-align:right'><strong>Simplificada</strong></TD>
+<TD style='text-align:right'><strong>Originais</strong></TD>
+<TD style='text-align:right'><strong>Retificadoras</strong></TD>
+<TD style='text-align:right'><strong>Sem imposto</strong></TD>
+<TD style='text-align:right'><strong>A pagar</strong></TD>
+<TD style='text-align:right'><strong>A restituir</strong></TD>
+<TD style='text-align:right'><strong>Conta</strong></TD>
+<TD style='text-align:right'><strong>PIX</strong></TD>
+</TR></THEAD>
+<TR class='head odd'><TD>BRASILIA</TD>
+<TD style='text-align:right'><strong>290.584</strong></TD>
+<TD style='text-align:right'>30%</TD>
+<TD style='text-align:right'>83%</TD>
+<TD style='text-align:right'>9%</TD>
+<TD style='text-align:right'>9%</TD>
+<TD style='text-align:right'>62%</TD>
+<TD style='text-align:right'>38%</TD>
+<TD style='text-align:right'>93%</TD>
+<TD style='text-align:right'>7%</TD>
+<TD style='text-align:right'>7,88%</TD>
+<TD style='text-align:right'>7,43%</TD>
+<TD style='text-align:right'>84,69%</TD>
+<TD style='text-align:right'>67%</TD>
+<TD style='text-align:right'>33%</TD>
+</TR>
+</TABLE></DIV>
+</BODY></HTML>

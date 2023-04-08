@@ -1,0 +1,279 @@
+<HTML><HEAD>
+	<link rel='stylesheet' href='irpf.css'/>
+	<link rel='stylesheet' href='style.css'/>
+	<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.10.2/css/all.css' crossorigin='anonymous'/>
+</head>
+<BODY>
+<!-- Arquivo gerado na data: 07/04/2023 20:30-->
+<!-- Dados até: 2023-04-07 20:21:07.0-->
+    <h2>Declarações de Imposto de Renda 2023 - UF: RR</h2>
+    <p>Acompanhe os números das declarações de imposto de renda enviadas à Receita Federal.</p>
+<div class='irpf'>	<div class='irpf-card irpf-main'>        <div>28.124</div>        <div>declarações enviadas até <strong>07/04/2023 20:21</strong></div>        <hr style='width: 100%;'/>        <div><strong>79,84%</strong> a restituir | <strong>11,63%</strong> a pagar | <strong>8,52%</strong> sem imposto</div>    </div>	<div>		<div class='irpf-card'><i class='fas fa-download'></i>85%</div>		<div class='irpf-card'><i class='fas fa-cloud'></i>6%</div>		<div class='irpf-card'><i class='fas fa-mobile-alt'></i>9%</div>	</div>	<div class='irpf-card irpf-else'>		<div>25%</div>		<div>pré-preenchidas</div>	</div>	<div class='irpf-card irpf-else'>		<div>64%</div>		<div>simplificado</div>	</div>	<div class='irpf-card irpf-else'>		<div>6%</div>		<div>retificadoras</div>	</div></div>
+<P><A HREF='totaisDIRPF_UF.HTML'><strong>voltar</strong></A></P>
+<div>
+<TABLE class='listing'><THEAD><TR class='head odd'>
+<TD style='text-align:right'  colspan=3><strong></strong></TD>
+<TD style='text-align:center' colspan=3><strong>Meio</strong></TD>
+<TD style='text-align:center' colspan=2><strong>Tributação</strong></TD>
+<TD style='text-align:center' colspan=2><strong>Tipo</strong></TD>
+<TD style='text-align:center' colspan=3><strong>Resultado</strong></TD>
+<TD style='text-align:center' colspan=2><strong>Restituição</strong></TD>
+</TR>
+<TR class='head odd'><TD><strong>UF</strong></TD>
+<TD style='text-align:right'><strong>Total</strong></TD>
+<TD style='text-align:right'><strong>Pré-Preenchida</strong></TD>
+<TD style='text-align:right'><strong>PGD</strong></TD>
+<TD style='text-align:right'><strong>APP</strong></TD>
+<TD style='text-align:right'><strong>Online</strong></TD>
+<TD style='text-align:right'><strong>Deduções</strong></TD>
+<TD style='text-align:right'><strong>Simplificada</strong></TD>
+<TD style='text-align:right'><strong>Originais</strong></TD>
+<TD style='text-align:right'><strong>Retificadoras</strong></TD>
+<TD style='text-align:right'><strong>Sem imposto</strong></TD>
+<TD style='text-align:right'><strong>A pagar</strong></TD>
+<TD style='text-align:right'><strong>A restituir</strong></TD>
+<TD style='text-align:right'><strong>Conta</strong></TD>
+<TD style='text-align:right'><strong>PIX</strong></TD>
+</TR></THEAD>
+<TR class='head odd'><TD>ALTO ALEGRE</TD>
+<TD style='text-align:right'><strong>359</strong></TD>
+<TD style='text-align:right'>15%</TD>
+<TD style='text-align:right'>92%</TD>
+<TD style='text-align:right'>6%</TD>
+<TD style='text-align:right'>2%</TD>
+<TD style='text-align:right'>29%</TD>
+<TD style='text-align:right'>71%</TD>
+<TD style='text-align:right'>93%</TD>
+<TD style='text-align:right'>7%</TD>
+<TD style='text-align:right'>11,42%</TD>
+<TD style='text-align:right'>14,76%</TD>
+<TD style='text-align:right'>73,82%</TD>
+<TD style='text-align:right'>65%</TD>
+<TD style='text-align:right'>35%</TD>
+</TR>
+<TR class='head even'><TD>AMAJARI</TD>
+<TD style='text-align:right'><strong>195</strong></TD>
+<TD style='text-align:right'>28%</TD>
+<TD style='text-align:right'>92%</TD>
+<TD style='text-align:right'>7%</TD>
+<TD style='text-align:right'>2%</TD>
+<TD style='text-align:right'>20%</TD>
+<TD style='text-align:right'>80%</TD>
+<TD style='text-align:right'>93%</TD>
+<TD style='text-align:right'>7%</TD>
+<TD style='text-align:right'>2,56%</TD>
+<TD style='text-align:right'>7,69%</TD>
+<TD style='text-align:right'>89,74%</TD>
+<TD style='text-align:right'>55%</TD>
+<TD style='text-align:right'>45%</TD>
+</TR>
+<TR class='head odd'><TD>BOA VISTA</TD>
+<TD style='text-align:right'><strong>23.872</strong></TD>
+<TD style='text-align:right'>26%</TD>
+<TD style='text-align:right'>85%</TD>
+<TD style='text-align:right'>9%</TD>
+<TD style='text-align:right'>6%</TD>
+<TD style='text-align:right'>38%</TD>
+<TD style='text-align:right'>62%</TD>
+<TD style='text-align:right'>94%</TD>
+<TD style='text-align:right'>6%</TD>
+<TD style='text-align:right'>8,01%</TD>
+<TD style='text-align:right'>11,24%</TD>
+<TD style='text-align:right'>80,75%</TD>
+<TD style='text-align:right'>67%</TD>
+<TD style='text-align:right'>33%</TD>
+</TR>
+<TR class='head even'><TD>BONFIM</TD>
+<TD style='text-align:right'><strong>236</strong></TD>
+<TD style='text-align:right'>12%</TD>
+<TD style='text-align:right'>91%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>32%</TD>
+<TD style='text-align:right'>68%</TD>
+<TD style='text-align:right'>95%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>12,29%</TD>
+<TD style='text-align:right'>11,44%</TD>
+<TD style='text-align:right'>76,27%</TD>
+<TD style='text-align:right'>81%</TD>
+<TD style='text-align:right'>19%</TD>
+</TR>
+<TR class='head odd'><TD>CANTA</TD>
+<TD style='text-align:right'><strong>378</strong></TD>
+<TD style='text-align:right'>28%</TD>
+<TD style='text-align:right'>83%</TD>
+<TD style='text-align:right'>10%</TD>
+<TD style='text-align:right'>7%</TD>
+<TD style='text-align:right'>34%</TD>
+<TD style='text-align:right'>66%</TD>
+<TD style='text-align:right'>96%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>6,61%</TD>
+<TD style='text-align:right'>11,11%</TD>
+<TD style='text-align:right'>82,28%</TD>
+<TD style='text-align:right'>67%</TD>
+<TD style='text-align:right'>33%</TD>
+</TR>
+<TR class='head even'><TD>CARACARAI</TD>
+<TD style='text-align:right'><strong>469</strong></TD>
+<TD style='text-align:right'>20%</TD>
+<TD style='text-align:right'>89%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>27%</TD>
+<TD style='text-align:right'>73%</TD>
+<TD style='text-align:right'>95%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>11,30%</TD>
+<TD style='text-align:right'>9,81%</TD>
+<TD style='text-align:right'>78,89%</TD>
+<TD style='text-align:right'>81%</TD>
+<TD style='text-align:right'>19%</TD>
+</TR>
+<TR class='head odd'><TD>CAROEBE</TD>
+<TD style='text-align:right'><strong>246</strong></TD>
+<TD style='text-align:right'>28%</TD>
+<TD style='text-align:right'>92%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>22%</TD>
+<TD style='text-align:right'>78%</TD>
+<TD style='text-align:right'>97%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>10,98%</TD>
+<TD style='text-align:right'>14,23%</TD>
+<TD style='text-align:right'>74,80%</TD>
+<TD style='text-align:right'>67%</TD>
+<TD style='text-align:right'>33%</TD>
+</TR>
+<TR class='head even'><TD>IRACEMA</TD>
+<TD style='text-align:right'><strong>123</strong></TD>
+<TD style='text-align:right'>8%</TD>
+<TD style='text-align:right'>98%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>1%</TD>
+<TD style='text-align:right'>21%</TD>
+<TD style='text-align:right'>79%</TD>
+<TD style='text-align:right'>97%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>32,52%</TD>
+<TD style='text-align:right'>8,94%</TD>
+<TD style='text-align:right'>58,54%</TD>
+<TD style='text-align:right'>79%</TD>
+<TD style='text-align:right'>21%</TD>
+</TR>
+<TR class='head odd'><TD>MUCAJAI</TD>
+<TD style='text-align:right'><strong>397</strong></TD>
+<TD style='text-align:right'>16%</TD>
+<TD style='text-align:right'>88%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>8%</TD>
+<TD style='text-align:right'>26%</TD>
+<TD style='text-align:right'>74%</TD>
+<TD style='text-align:right'>95%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>12,59%</TD>
+<TD style='text-align:right'>12,59%</TD>
+<TD style='text-align:right'>74,81%</TD>
+<TD style='text-align:right'>78%</TD>
+<TD style='text-align:right'>22%</TD>
+</TR>
+<TR class='head even'><TD>NORMANDIA</TD>
+<TD style='text-align:right'><strong>177</strong></TD>
+<TD style='text-align:right'>16%</TD>
+<TD style='text-align:right'>86%</TD>
+<TD style='text-align:right'>14%</TD>
+<TD style='text-align:right'>0%</TD>
+<TD style='text-align:right'>31%</TD>
+<TD style='text-align:right'>69%</TD>
+<TD style='text-align:right'>95%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>6,21%</TD>
+<TD style='text-align:right'>15,25%</TD>
+<TD style='text-align:right'>78,53%</TD>
+<TD style='text-align:right'>81%</TD>
+<TD style='text-align:right'>19%</TD>
+</TR>
+<TR class='head odd'><TD>PACARAIMA</TD>
+<TD style='text-align:right'><strong>372</strong></TD>
+<TD style='text-align:right'>10%</TD>
+<TD style='text-align:right'>94%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>34%</TD>
+<TD style='text-align:right'>66%</TD>
+<TD style='text-align:right'>95%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>12,90%</TD>
+<TD style='text-align:right'>23,66%</TD>
+<TD style='text-align:right'>63,44%</TD>
+<TD style='text-align:right'>69%</TD>
+<TD style='text-align:right'>31%</TD>
+</TR>
+<TR class='head even'><TD>RORAINOPOLIS</TD>
+<TD style='text-align:right'><strong>903</strong></TD>
+<TD style='text-align:right'>27%</TD>
+<TD style='text-align:right'>83%</TD>
+<TD style='text-align:right'>12%</TD>
+<TD style='text-align:right'>6%</TD>
+<TD style='text-align:right'>27%</TD>
+<TD style='text-align:right'>73%</TD>
+<TD style='text-align:right'>96%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>13,40%</TD>
+<TD style='text-align:right'>13,18%</TD>
+<TD style='text-align:right'>73,42%</TD>
+<TD style='text-align:right'>72%</TD>
+<TD style='text-align:right'>28%</TD>
+</TR>
+<TR class='head odd'><TD>SAO JOAO DA BALIZA</TD>
+<TD style='text-align:right'><strong>153</strong></TD>
+<TD style='text-align:right'>56%</TD>
+<TD style='text-align:right'>73%</TD>
+<TD style='text-align:right'>5%</TD>
+<TD style='text-align:right'>23%</TD>
+<TD style='text-align:right'>27%</TD>
+<TD style='text-align:right'>73%</TD>
+<TD style='text-align:right'>93%</TD>
+<TD style='text-align:right'>7%</TD>
+<TD style='text-align:right'>7,84%</TD>
+<TD style='text-align:right'>20,26%</TD>
+<TD style='text-align:right'>71,90%</TD>
+<TD style='text-align:right'>66%</TD>
+<TD style='text-align:right'>34%</TD>
+</TR>
+<TR class='head even'><TD>SAO LUIZ</TD>
+<TD style='text-align:right'><strong>186</strong></TD>
+<TD style='text-align:right'>40%</TD>
+<TD style='text-align:right'>88%</TD>
+<TD style='text-align:right'>8%</TD>
+<TD style='text-align:right'>4%</TD>
+<TD style='text-align:right'>24%</TD>
+<TD style='text-align:right'>76%</TD>
+<TD style='text-align:right'>97%</TD>
+<TD style='text-align:right'>3%</TD>
+<TD style='text-align:right'>8,06%</TD>
+<TD style='text-align:right'>17,20%</TD>
+<TD style='text-align:right'>74,73%</TD>
+<TD style='text-align:right'>69%</TD>
+<TD style='text-align:right'>31%</TD>
+</TR>
+<TR class='head odd'><TD>UIRAMUTA</TD>
+<TD style='text-align:right'><strong>58</strong></TD>
+<TD style='text-align:right'>22%</TD>
+<TD style='text-align:right'>83%</TD>
+<TD style='text-align:right'>9%</TD>
+<TD style='text-align:right'>9%</TD>
+<TD style='text-align:right'>40%</TD>
+<TD style='text-align:right'>60%</TD>
+<TD style='text-align:right'>100%</TD>
+<TD style='text-align:right'>0%</TD>
+<TD style='text-align:right'>12,07%</TD>
+<TD style='text-align:right'>22,41%</TD>
+<TD style='text-align:right'>65,52%</TD>
+<TD style='text-align:right'>66%</TD>
+<TD style='text-align:right'>34%</TD>
+</TR>
+</TABLE></DIV>
+</BODY></HTML>
