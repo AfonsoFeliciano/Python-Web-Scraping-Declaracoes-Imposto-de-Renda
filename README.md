@@ -17,3 +17,18 @@ Para isso, foram capturadas e utilizadas as variáveis de controle Ano e UF.
 
 Todos os detalhes podem ser visto no código: https://github.com/AfonsoFeliciano/Python-Web-Scrapping-Declaracoes-Imposto-de-Renda/blob/main/coleta_imposto_de_renda.ipynb
 
+## Melhorias
+
+Após realizar todas as coletas, realizou-se a criação de um Dashboard utilizando conceitos de modelagem dimensional no software Power BI. 
+
+Com esse Dashboard, torna-se possível aumentar o nível de detalhamento e riqueza nas análises facilitando a tomada de decisão. 
+
+### Tela Geral
+
+![Alt text](imgs/Screenshot_2.png?raw=true "Tela Geral")
+
+
+
+### Tela de Detalhamento
+
+![Alt text](imgs/Screenshot_3.png?raw=true "Tela de Detalhamento")
