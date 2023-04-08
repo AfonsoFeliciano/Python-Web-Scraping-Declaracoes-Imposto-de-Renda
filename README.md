@@ -10,7 +10,7 @@ Com essas informações consolidadas em apenas um único local, todo o processo 
 
 O repositório segue estruturado conforme abaixo
 
-.
+.<br>
 ├── data<br>
 │   ├── dados_consolidados<br>
 │   │   └── dados_imposto_de_renda.xlsx<br>
