@@ -6,6 +6,22 @@ O objetivo é coletar todos os dados presentes no site: https://servicos.receita
 
 Com essas informações consolidadas em apenas um único local, todo o processo de análise torna-se mais rápido e menos burocrático. 
 
+## Estrutura do repositório
+
+O repositório segue estruturado conforme abaixo
+
+.
+├── data<br>
+│   ├── dados_consolidados<br>
+│   │   └── dados_imposto_de_renda.xlsx<br>
+│   └── dados_historicos<br>
+│       └── UF_ANO.txt<br>
+├── imgs<br>
+├── report<br>
+├── requirements<br>
+├── coleta_imposto_de_renda.ipynb<br>
+└── README.MD<br>
+
 ## Sobre o site
 
 O site divulga as informações em telas separadas, no qual podem ser utilizadas lógicas de programação bem como a investigação do comportamento dessas telas para então realizar a consolidação de todos os dados. 
